@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeliseServices
+- 👋 Hi, I’m @Melise
 - 👀 I’m interested in ...Machine Learning
 - Developing Experimental Quantum_Codeflow and OmicronIota_Development
 - 🌱 I’m currently learning ... Machine Learning Python and R Coding
